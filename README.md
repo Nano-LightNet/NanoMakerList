@@ -1,6 +1,6 @@
 # Nano - Telemetry Maker List
 #### To get your organization / implementation maker listed, please open a issue.
-| Maker | Organization | Domain Name |
-|  ---  |     ----     |     ---     |
-| 0x00 | Nano Foundation | nano.org |
-| 0x01 | Nano Community | nano.community |
+| Maker | Organization | Domain Name | Node Repository |
+|  ---  |     ----     |     ---     |       ---       |
+| 0x00 | Nano Foundation | nano.org | [nanocurrency/nano-node](https://github.com/nanocurrency/nano-node) |
+| 0x01 | Nano Community | nano.community | [nano-lightnet/nano-node-light](https://github.com/Nano-LightNet/nano-node-light) |
